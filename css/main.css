@@ -367,7 +367,7 @@ nav.scrolled {
 
 .houses .box-container .box .bid .options {
     display: flex;
-    gap: 2px;
+    gap: 7px;
     margin: 20px 0;
     align-items: center;
 }
@@ -375,7 +375,7 @@ nav.scrolled {
 .houses .box-container .box .bid .options p {
     background-color: #344E41;
     padding: 10px 15px;
-    font-size: 0.5rem;
+    font-size: 0.8rem;
     color: #fff;
     border-radius: 50px;
     transition: 0.3s ease;
@@ -821,7 +821,7 @@ nav.scrolled {
     }
 
     .houses .box-container .box .bid .options p {
-        font-size: 0.6rem;
+        font-size: 0.5rem;
     }
 
     .houses .box-container .box .bid .additions {
