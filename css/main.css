@@ -121,7 +121,7 @@ nav.scrolled {
 .home {
     width: 100%;
     height: 100vh;
-    background-image: url(/assets/bg.png);
+    background-image: url(../assets/bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 10px;
@@ -900,4 +900,3 @@ nav.scrolled {
         justify-content: center;
     }
 }
-
