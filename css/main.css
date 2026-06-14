@@ -694,6 +694,12 @@ nav.scrolled {
         text-align: center;
     }
 
+    nav.visible {
+        opacity: 1;
+        transform: translateY(0);
+        transform: translateX(0);
+    }
+
     .home {
         height: auto;
         min-height: 100vh;
@@ -823,7 +829,6 @@ nav.scrolled {
         transform: none;
         display: inline-block;
         margin-top: 20px;
-        margin-left: 130px;
     }
 
     .services .main-text h1 {
