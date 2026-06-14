@@ -13,6 +13,14 @@ body {
     background-color: #E9EDC9;
 }
 
+html{
+    overflow-x: hidden;
+}
+
+section {
+    overflow-x: hidden;
+}
+
 nav {
     position: fixed;
     display: flex;
